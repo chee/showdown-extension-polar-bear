@@ -1,0 +1,25 @@
+{
+	"name": "showdown-extension-polar-bear",
+	"version": "0.0.0",
+	"description": "",
+	"keywords": [
+		"markdown",
+		"md",
+		"showdown",
+		"extension"
+	],
+	"license": "MIT",
+	"author": "chee",
+	"main": "./index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/showdownjs/showdown-extension-boilerplate.git",
+		"web": "https://github.com/showdownjs/showdown-extension-boilerplate"
+	},
+	"scripts": {
+		"test": "grunt test"
+	},
+	"peerDependencies": {
+		"showdown": "^1.9.0"
+	}
+}
